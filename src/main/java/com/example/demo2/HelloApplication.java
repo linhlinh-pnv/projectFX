@@ -65,7 +65,7 @@ public class HelloApplication extends Application {
             if (!name.equals(EMPTY) && !image.equals(EMPTY) && !price.equals(EMPTY) && !soluong.equals(EMPTY)) {
                 DB.insertSanpham(new Sanpham(name, image, price, soluong));
                 try {
-                    start(stage);//chúng ta nên nháp thôi nha
+                    start(stage);
                 } catch (Exception ex) {
                     throw new RuntimeException(ex);
                 }
