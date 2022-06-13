@@ -11,5 +11,7 @@
 -Em đang làm phần chuyển trang
 # Chức năng sẽ làm
 -Em dự định làm phẩn đăng ký và đăng nhập và chỉnh sửa lại database
+# Video Demo
+https://drive.google.com/drive/folders/1Gtsg_7-oo0ha6ODuZ1YulMrd5-QIWXiW?usp=sharing
 
 
