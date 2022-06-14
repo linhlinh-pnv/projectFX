@@ -1,7 +1,6 @@
 # projectFX
 
-
-![image](https://user-images.githubusercontent.com/89339378/173391286-874b534f-af83-4c8f-8eab-58b5008d3f3c.png)
+![image](https://user-images.githubusercontent.com/89339378/173473484-501f13c6-d9a8-4d67-9215-25529485ffb8.png)
 
 Bảng database
 ![image](https://user-images.githubusercontent.com/89339378/173472911-00b6fc1a-f1e4-41c9-be3e-7e3efbe7c91a.png)
